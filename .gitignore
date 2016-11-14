@@ -2,3 +2,8 @@
 config.py
 old
 .DS_Store
+uci_data_testing/*.csv
+uci_data_testing/1-s2.0-S0167923609001377-main.pdf
+uci_data_testing/hybrid_crossvalidated.ipynb
+uci_data_testing/quickstart.ipynb
+uci_data_testing/winequality.names
